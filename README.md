@@ -9,7 +9,7 @@
 Pada project ini akan dilakukan analisa untuk mendapatkan insight-insight yang berhubungan dengan performa bisnis hotel. Insight tersebut akan dicari melalui eksplorasi data, seperti menganalisis bagaimana perilaku pelanggan dalam melakukan pemesanan tiket hotel ataupun mencari faktor-faktor yang mempengaruhi pembatalan pemesanan tiket hotel. Kemudian insight akan disajikan menggunakan visualisasi.
 
 ## Problem Statement
-Melakukan investigasi terhadap performa bisnis hotel melalui ...
+Melakukan investigasi terhadap performa bisnis hotel melalui jumlah pemesanan setiap bulan, hubungan durasi menginap terhadap pembatalan pemesanan, hubungan lead time pemesanan terhadap pembatalan pemesanan.
 
 ## Objective
 Membuat visualisasi berbasis data sebagai insight bagi bisnis hotel
@@ -26,6 +26,14 @@ Kolom `agent` akan diisi dengan `0` karena mengindikasikan tamu melakukan reserv
 Kolom `company` akan diisi dengan `0` karena mengindikasikan tamu tidak berasal dari company. <br>
 Kolom `city` akan diisi dengan `Unknown` karena kota tidak diketahui secara pasti. <br>
 
-### 2. 
+### 2. Mengganti tipe data dan value yang tidak sesuai
+- Tipe data :
+  - Feature `children` yang awalnya `float` menjadi `integer`.
+  - Feature `is_canceled` dan `is_repeated_guest` yang awalnya `integer` menjadi `object`
+  - Feature `agent` yang awalnya `float` menjadi `object`
+- Value yang tidak sesuai <br>
+  Pada Feature `meal` : mengganti value `Undefined` menjadi `No Meal` karena memiliki arti yang sama.
+
+### 3. Membuang data yang tidak diperlukan
 
 
