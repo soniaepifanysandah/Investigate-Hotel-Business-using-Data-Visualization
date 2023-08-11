@@ -76,6 +76,9 @@ Persentase cancel paling rendah untuk kedua tipe hotel adalah dengan lead time 1
 
 ## Summary
 1. Secara keseluruhan, City hotel paling banyak dipesan daripada Resort hotel. Pemesanan hotel, baik Resort maupun City hotel, mengalami kenaikan ketika musim liburan yaitu pada bulan **Mei-Juli** dan **Oktober-Desember**.
-2. Semakin lama durasi menginap, maka 
+2. Semakin lama durasi menginap, maka semakin tinggi kemungkinan pemesanan dibatalkan. Hal ini berlaku untuk kedua tipe hotel. 
+3. Pembatalan terendah untuk kedua tipe hotel adalah dengan lead time kurang dari 1 bulan.
 
+## Business Recomendation
+1. 
 
