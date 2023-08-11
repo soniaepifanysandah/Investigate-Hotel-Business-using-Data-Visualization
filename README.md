@@ -75,10 +75,13 @@ Bisnis hotel biasanya memperbolehkan pelanggan memesan hotel sebelum hari kedata
 Persentase cancel paling rendah untuk kedua tipe hotel adalah dengan lead time 1 bulan sebelum kedatangan. Resort hotel memiliki persentase cancel yang cukup stabil di kisaran 40%, sedangkan City hotel memiliki persentase pembatalan yang cukup tinggi yaitu lebih dari 60% bahkan sampe 80% ketika lead time lebih dari 8 bulan atau sekitar 1 tahun sebelum waktu kedatangan.
 
 ## Summary
-1. Secara keseluruhan, City hotel paling banyak dipesan daripada Resort hotel. Pemesanan hotel, baik Resort maupun City hotel, mengalami kenaikan ketika musim liburan yaitu pada bulan **Mei-Juli** dan **Oktober-Desember**.
-2. Semakin lama durasi menginap, maka semakin tinggi kemungkinan pemesanan dibatalkan. Hal ini berlaku untuk kedua tipe hotel. 
-3. Pembatalan terendah untuk kedua tipe hotel adalah dengan lead time kurang dari 1 bulan.
+1. Secara keseluruhan, City hotel paling banyak dipesan daripada Resort hotel. Pemesanan hotel, baik Resort maupun City hotel, mengalami kenaikan ketika musim liburan yaitu pada bulan Mei-Juli dan Oktober-Desember.
+2. Semakin lama durasi menginap, maka semakin tinggi kemungkinan pemesanan dibatalkan. Persentase pembatalan pada City hotel lebih besar daripada Resort hotel, dimana persentasenya hampir 100% dan untuk Resort hotel kurang dari 50%.
+3. Persentase pembatalan terendah untuk kedua tipe hotel adalah dengan lead time kurang dari 1 bulan kedatangan. Sedangkan untuk lead time lebih dari 8 bulan memiliki persentase pembatalan yang cukup tinggi, yaitu 60-80% untuk City hotel. Resort hotel memiliki persentase pembatalan cukup stabil yaitu kisaran 40%.
 
-## Business Recomendation
-1. 
+## Business Recommendation
+1. Untuk meningkatkan pemesanan hotel pada Resort hotel ketika musim liburan, pihak hotel dapat mengoptimalkan fasilitas dan pelayanan di hotel ataupun melalui strategi marketing berupa harga yang ditawarkan seperti diskon ataupun pemberian voucher (tentu saja perlu untuk didiskusikan dengan departemen marketing).
+2. Untuk mengurangi pembatalan pemesanan pada City hotel, maka perlu dilakukan kebijakan atau peninjauan terkait durasi menginap. Misalnya pemesanan untuk durasi menginap lebih dari rentang waktu tertentu akan dikenakan biaya tambahan atau bisa juga non-refundable, sehingga meminimalisir kerugian revenue jika ada yang cancel.
+3. Untuk mengatasi pembatalan pemesanan karena lead time, maka pihak hotel bisa menetapkan pembatasan lead time yang tersedia. Sehingga pelanggan hanya memesan ketika benar-benar yakin akan menginap. Selain itu juga bisa dengan menaikkan tarif kamar untuk lead time lebih dari 8 bulan, sehingga pelanggan tidak dengan mudah melakukan pembatalan.
+4. Rekomendasi lain terhadap pelanggan yang melakukan pembatalan pesanan adalah pihak hotel dapat menawarkan penjadwalan ulang dan menjual kamar yang memiliki lead time yang masih lama.
 
