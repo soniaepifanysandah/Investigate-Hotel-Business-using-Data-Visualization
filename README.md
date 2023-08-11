@@ -35,5 +35,12 @@ Kolom `city` akan diisi dengan `Unknown` karena kota tidak diketahui secara past
   Pada Feature `meal` : mengganti value `Undefined` menjadi `No Meal` karena memiliki arti yang sama.
 
 ### 3. Membuang data yang tidak diperlukan
+- Ditemukan terdapat 180 pemesanan dengan jumlah tamu = 0. Karena jumlah tamu tidak mungkin = 0, maka baris tersebut di drop.
+- Ditemukan terdapat 223 pemesanan dengan jumlah tamu dewasa = 0, sedangkan children dan babies > 0. Karena kondisi ini tidak mungkin, maka baris tersebut akan di drop.
+- Ditemukan terdapat 645 pemesanan dengan durasi menginap = 0, oleh karena itu baris tersebut akan di drop.
+- Ditemukan terdapat 1 baris yang memiliki nilai adr < 0, sehingga baris tersebut akan di drop.
 
+## Analysis
+### 1. Monthly Booking Hotel Analysis Based on Hotel Type
+Bisnis perhotelan sangat erat kaitannya dengan pelanggan. Semakin banyak pelanggan, maka semakin banyak pula revenue yang didapat. Analisa perliaku pelanggan dalam memesan hotel sangatlah penting, seperti tipe hotel apa yang paling banyak diminati dan mengaitkannya dengan kondisi musim ketika hotel dipesan.
 
