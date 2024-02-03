@@ -45,7 +45,7 @@ Kolom `city` akan diisi dengan `Unknown` karena kota tidak diketahui secara past
 
 ## Analysis
 ### 1. Monthly Booking Hotel Analysis Based on Hotel Type
-Bisnis perhotelan sangat erat kaitannya dengan pelanggan. Semakin banyak pelanggan, maka semakin banyak pula revenue yang didapat. Analisa perliaku pelanggan dalam memesan hotel sangatlah penting, seperti tipe hotel apa yang paling banyak diminati dan mengaitkannya dengan kondisi musim ketika hotel dipesan.
+Bisnis perhotelan sangat erat kaitannya dengan pelanggan. Semakin banyak pelanggan, maka semakin banyak pula revenue yang didapat. Analisa perilaku pelanggan dalam memesan hotel sangatlah penting, seperti tipe hotel apa yang paling banyak diminati dan mengaitkannya dengan kondisi musim ketika hotel dipesan.
 
 <p align="center">
    <img src="picture/Booking Hotel during Holiday Season.png" width = 800 px alt="grafik2">
